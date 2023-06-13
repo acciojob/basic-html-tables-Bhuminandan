@@ -1,2 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
 
-/* Your CSS Code here. */
+html, body {
+    width: 100%;
+    height: 100%;
+
+}
+
+table{
+    margin: 100px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#theading{
+    background-color: rgb(128, 247, 255);
+}
